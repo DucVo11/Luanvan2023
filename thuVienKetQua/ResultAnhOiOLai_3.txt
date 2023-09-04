@@ -1,0 +1,14 @@
+Kết quả:
+3  bài hát giống với file audio:AnhOiOLai-ChiPuDatG_3
+-----------------------------------------------------------------------------------------------
+0.9598869691168703D:/LuanVan/LuanvanAPI/Lyric\ViMeAnhBatChiaTay-MiuLe-7503053.txt
+0.958223119258471D:/LuanVan/LuanvanAPI/Lyric\MasewxKhoiVu-AiNo.txt
+0.9577466254715499D:/LuanVan/LuanvanAPI/Lyric\Chipu-AnhOiOLai.txt
+-----------------------------------------------------------------------------------------------
+Kết quả:
+3  bài hát giống với file audio:AnhOiOLai-ChiPuDatG_3
+-----------------------------------------------------------------------------------------------
+0.9598869691168703D:/LuanVan/LuanvanAPI/Lyric\ViMeAnhBatChiaTay-MiuLe-7503053.txt
+0.958223119258471D:/LuanVan/LuanvanAPI/Lyric\MasewxKhoiVu-AiNo.txt
+0.9577466254715499D:/LuanVan/LuanvanAPI/Lyric\Chipu-AnhOiOLai.txt
+-----------------------------------------------------------------------------------------------
